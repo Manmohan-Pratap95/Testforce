@@ -162,4 +162,11 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <fields>
+        <fullName>Generate_Invoice__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Generate Invoice</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
 </CustomObject>
